@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="358c15ce-f931-4dcc-b228-18582085d02c" name="Default Changelist" comment="zb update">
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/CPLID_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/CPLID_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/CPLID_train.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/CPLID_train.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/coco_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/coco_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/labels_defective.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/labels_defective.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/labels_normal.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/CPLID/labels_normal.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/Tomaszewski_complete_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/Tomaszewski_complete_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/Tomaszewski_complete_train.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/Tomaszewski_complete_train.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/coco_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/coco_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/insulator_complete.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/insulator_complete.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/labels_1pf_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/labels_1pf_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/labels_1pf_train.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/labels_1pf_train.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/merge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/select_one_per_folder.py" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/select_one_per_folder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/split_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski/split_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski_CPLID_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski_CPLID_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski_CPLID_train.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/Tomaszewski_CPLID_train.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/albumentations/data_augmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/albumentations/data_augmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/augmented_labels_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/augmented_labels_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/augmented_labels_train.json" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/augmented_labels_train.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/check_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/check_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/merge_Tomaszewski_CPLID.py" beforeDir="false" afterPath="$PROJECT_DIR$/FINet/repo/public-insulator-datasets-master/merge_Tomaszewski_CPLID.py" afterDir="false" />
+    </list>
+=======
     <list default="true" id="358c15ce-f931-4dcc-b228-18582085d02c" name="Default Changelist" comment="zb update" />
+>>>>>>> dev
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,10 +266,13 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zb update" />
     <option name="LAST_COMMIT_MESSAGE" value="zb update" />
   </component>
+>>>>>>> dev
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/InsulatorNet$check_dataset.coverage" NAME="check_dataset Coverage Results" MODIFIED="1631188586647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public-insulator-datasets-master" />
     <SUITE FILE_PATH="coverage/FoggyInsulatorNet$synthetic_fog.coverage" NAME="synthetic_fog Coverage Results" MODIFIED="1631587233837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
